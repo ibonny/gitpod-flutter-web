@@ -1,0 +1,85 @@
+!! PLEASE REVIEW THIS LOG FOR SENSITIVE INFORMATION BEFORE SHARING !!
+
+Dart Code extension: 3.10.1
+Flutter extension: 3.6.0 (not activated)
+VS Code: 1.44.0
+Platform: linux
+HTTP_PROXY: undefined
+NO_PROXY: undefined
+
+Tue May 19 2020 [19:30:12 GMT+0000 (Coordinated Universal Time)] Log file started
+[7:30:12 PM] [General] [Info] Searching for SDKs...
+[7:30:12 PM] [General] [Info] Environment PATH:
+[7:30:12 PM] [General] [Info]     /workspace/.cargo/bin
+[7:30:12 PM] [General] [Info]     /workspace/.pip-modules/bin
+[7:30:12 PM] [General] [Info]     /workspace/.rvm/bin
+[7:30:12 PM] [General] [Info]     /usr/local/bin
+[7:30:12 PM] [General] [Info]     /usr/bin
+[7:30:12 PM] [General] [Info]     /bin
+[7:30:12 PM] [General] [Info]     /usr/local/games
+[7:30:12 PM] [General] [Info]     /usr/games
+[7:30:12 PM] [General] [Info] Found Flutter project at /workspace/gitpod-flutter-web:
+			Mobile? true
+			Web? false
+			Create Trigger? false
+			Flutter Repo? false
+[7:30:12 PM] [General] [Info] Searching for flutter
+[7:30:12 PM] [General] [Info]     Looking for flutter in:
+[7:30:12 PM] [General] [Info]         /home/gitpod/flutter
+[7:30:12 PM] [General] [Info]         /home/gitpod/flutter/bin
+[7:30:12 PM] [General] [Info]         /workspace/gitpod-flutter-web
+[7:30:12 PM] [General] [Info]         /workspace/gitpod-flutter-web/bin
+[7:30:12 PM] [General] [Info]         /workspace/gitpod-flutter-web/.flutter
+[7:30:12 PM] [General] [Info]         /workspace/gitpod-flutter-web/.flutter/bin
+[7:30:12 PM] [General] [Info]         /workspace/gitpod-flutter-web/vendor/flutter
+[7:30:12 PM] [General] [Info]         /workspace/gitpod-flutter-web/vendor/flutter/bin
+[7:30:12 PM] [General] [Info]         /workspace/.cargo/bin
+[7:30:12 PM] [General] [Info]         /workspace/.pip-modules/bin
+[7:30:12 PM] [General] [Info]         /workspace/.rvm/bin
+[7:30:12 PM] [General] [Info]         /usr/local/bin
+[7:30:12 PM] [General] [Info]         /usr/bin
+[7:30:12 PM] [General] [Info]         /bin
+[7:30:12 PM] [General] [Info]         /usr/local/games
+[7:30:12 PM] [General] [Info]         /usr/local/games/bin
+[7:30:12 PM] [General] [Info]         /usr/games
+[7:30:12 PM] [General] [Info]         /usr/games/bin
+[7:30:12 PM] [General] [Info]     Found at:
+[7:30:12 PM] [General] [Info]         /home/gitpod/flutter/bin
+[7:30:12 PM] [General] [Info]     Candidate paths to be post-filtered:
+[7:30:12 PM] [General] [Info]         /home/gitpod/flutter
+[7:30:12 PM] [General] [Info]     Found at /home/gitpod/flutter
+[7:30:12 PM] [General] [Info]     Returning SDK path /home/gitpod/flutter for flutter
+[7:30:12 PM] [General] [Info] Searching for dart
+[7:30:12 PM] [General] [Info]     Looking for dart in:
+[7:30:12 PM] [General] [Info]         /home/gitpod/flutter/bin/cache/dart-sdk
+[7:30:12 PM] [General] [Info]         /home/gitpod/flutter/bin/cache/dart-sdk/bin
+[7:30:12 PM] [General] [Info]         /home/gitpod/dart-sdk
+[7:30:12 PM] [General] [Info]         /home/gitpod/dart-sdk/bin
+[7:30:12 PM] [General] [Info]         /workspace/.cargo/bin
+[7:30:12 PM] [General] [Info]         /workspace/.pip-modules/bin
+[7:30:12 PM] [General] [Info]         /workspace/.rvm/bin
+[7:30:12 PM] [General] [Info]         /usr/local/bin
+[7:30:12 PM] [General] [Info]         /usr/bin
+[7:30:12 PM] [General] [Info]         /bin
+[7:30:12 PM] [General] [Info]         /usr/local/games
+[7:30:12 PM] [General] [Info]         /usr/local/games/bin
+[7:30:12 PM] [General] [Info]         /usr/games
+[7:30:12 PM] [General] [Info]         /usr/games/bin
+[7:30:12 PM] [General] [Info]         /home/gitpod/flutter/bin/cache/dart-sdk
+[7:30:12 PM] [General] [Info]         /home/gitpod/flutter/bin/cache/dart-sdk/bin
+[7:30:12 PM] [General] [Info]     Found at:
+[7:30:12 PM] [General] [Info]         /home/gitpod/flutter/bin/cache/dart-sdk/bin
+[7:30:12 PM] [General] [Info]         /home/gitpod/flutter/bin/cache/dart-sdk/bin
+[7:30:12 PM] [General] [Info]     Candidate paths to be post-filtered:
+[7:30:12 PM] [General] [Info]         /home/gitpod/flutter/bin/cache/dart-sdk
+[7:30:12 PM] [General] [Info]         /home/gitpod/flutter/bin/cache/dart-sdk
+[7:30:12 PM] [General] [Info]     Found at /home/gitpod/flutter/bin/cache/dart-sdk
+[7:30:12 PM] [General] [Info]     Returning SDK path /home/gitpod/flutter/bin/cache/dart-sdk for dart
+[7:30:13 PM] [General] [Info] Activating Flutter extension for Flutter project...
+[7:30:13 PM] [General] [Info] Extension:Startup timing: 60ms
+[7:30:13 PM] [General] [Info] Found 1 folders requiring "pub get":
+    /workspace/gitpod-flutter-web
+[7:30:13 PM] [General] [Info] Analyzer:Startup timing: 626ms
+[7:30:23 PM] [General] [Info] Checking 1 projects for supported platforms
+[7:30:23 PM] [General] [Info] Supported platforms for the workspace are web
+[7:30:37 PM] [General] [Info] Analyzer:FirstAnalysis timing: 23585ms
